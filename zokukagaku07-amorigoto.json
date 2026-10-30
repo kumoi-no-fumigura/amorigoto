@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/amorigoto",
  "yomi": "あもりごと",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集（抄）",
+  "era": "江戸中期（文化4年〈1807〉1月 写）",
+  "author": "田安宗武（1715〜1771）",
+  "desc": "田安家の初代で、万葉調の歌をよくした田安宗武の歌の抄。将軍家の庭の紅葉や飛鳥山の桜などを詠む。末に「田安の故君のみ歌」を文化4年1月に藤原直臣が写したとある。"
+ },
  "editions": [
   {
    "pid": "993385",
